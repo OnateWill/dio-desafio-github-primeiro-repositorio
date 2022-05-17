@@ -4,7 +4,7 @@ projeto sobre git/github
 Aprendendo mais sobre git/github para fins acadêmicos e profissionais, para poder ser um bom dev
 
 ## Links úteis 
-1. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)\
+1. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 2. [Aprendendo a aprender - Fabio akita](https://www.youtube.com/watch?v=oUPaJxk6TZ0)
 3. [a dor de aprender - Fabio akita](https://www.youtube.com/watch?v=HEaIsKm-pao)
 
