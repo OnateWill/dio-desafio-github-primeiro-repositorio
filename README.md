@@ -1,4 +1,4 @@
-# Desafio da DIO sobte git/github
+# Desafio da DIO sobre git/github
 projeto sobre git/github
 
 Aprendendo mais sobre git/github para fins acadêmicos e profissionais, para poder ser um bom dev
