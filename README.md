@@ -8,7 +8,7 @@ Aprendendo mais sobre git/github para fins acadêmicos e profissionais, para pod
 
 ## Músicas que ouvi enquanto fazia o projeto 
 
-- decidi colocar somente os links melhor que upar todas as músicas
+- decidi colocar somente os links, melhor do que upar todas as músicas
 
 - AMVS de animes
 
